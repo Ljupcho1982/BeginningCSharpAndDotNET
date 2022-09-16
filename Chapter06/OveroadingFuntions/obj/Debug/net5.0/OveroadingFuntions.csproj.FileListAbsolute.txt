@@ -1,0 +1,5 @@
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter06\OveroadingFuntions\obj\Debug\net5.0\OveroadingFuntions.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter06\OveroadingFuntions\obj\Debug\net5.0\OveroadingFuntions.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter06\OveroadingFuntions\obj\Debug\net5.0\OveroadingFuntions.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter06\OveroadingFuntions\obj\Debug\net5.0\OveroadingFuntions.AssemblyInfo.cs
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter06\OveroadingFuntions\obj\Debug\net5.0\OveroadingFuntions.csproj.CoreCompileInputs.cache

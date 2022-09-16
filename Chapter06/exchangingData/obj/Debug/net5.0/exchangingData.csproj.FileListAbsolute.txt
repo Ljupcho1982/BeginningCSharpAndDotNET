@@ -1,0 +1,16 @@
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter06\exchangingData\bin\Debug\net5.0\exchangingData.exe
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter06\exchangingData\bin\Debug\net5.0\exchangingData.deps.json
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter06\exchangingData\bin\Debug\net5.0\exchangingData.runtimeconfig.json
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter06\exchangingData\bin\Debug\net5.0\exchangingData.runtimeconfig.dev.json
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter06\exchangingData\bin\Debug\net5.0\exchangingData.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter06\exchangingData\bin\Debug\net5.0\exchangingData.pdb
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter06\exchangingData\obj\Debug\net5.0\exchangingData.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter06\exchangingData\obj\Debug\net5.0\exchangingData.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter06\exchangingData\obj\Debug\net5.0\exchangingData.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter06\exchangingData\obj\Debug\net5.0\exchangingData.AssemblyInfo.cs
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter06\exchangingData\obj\Debug\net5.0\exchangingData.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter06\exchangingData\obj\Debug\net5.0\exchangingData.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter06\exchangingData\obj\Debug\net5.0\refint\exchangingData.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter06\exchangingData\obj\Debug\net5.0\exchangingData.pdb
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter06\exchangingData\obj\Debug\net5.0\exchangingData.genruntimeconfig.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter06\exchangingData\obj\Debug\net5.0\ref\exchangingData.dll
