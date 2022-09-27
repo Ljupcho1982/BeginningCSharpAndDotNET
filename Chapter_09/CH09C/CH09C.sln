@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myExertnalClass", "CH09ClassLib\myExertnalClass.csproj", "{F84313ED-4383-4A5F-B658-56379093C71A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH09EX02", "CH09EX02\CH09EX02.csproj", "{19CA525B-8E40-4A19-AE6C-AB339BB6CD65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F84313ED-4383-4A5F-B658-56379093C71A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F84313ED-4383-4A5F-B658-56379093C71A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F84313ED-4383-4A5F-B658-56379093C71A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F84313ED-4383-4A5F-B658-56379093C71A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19CA525B-8E40-4A19-AE6C-AB339BB6CD65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19CA525B-8E40-4A19-AE6C-AB339BB6CD65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19CA525B-8E40-4A19-AE6C-AB339BB6CD65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19CA525B-8E40-4A19-AE6C-AB339BB6CD65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D2C67F1-1414-4C68-A256-585D8144FE49}
+	EndGlobalSection
+EndGlobal

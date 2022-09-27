@@ -1,0 +1,12 @@
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_09\CH09C\CH09ClassLib\bin\Debug\net5.0\myExertnalClass.deps.json
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_09\CH09C\CH09ClassLib\bin\Debug\net5.0\myExertnalClass.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_09\CH09C\CH09ClassLib\bin\Debug\net5.0\myExertnalClass.pdb
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_09\CH09C\CH09ClassLib\obj\Debug\net5.0\myExertnalClass.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_09\CH09C\CH09ClassLib\obj\Debug\net5.0\myExertnalClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_09\CH09C\CH09ClassLib\obj\Debug\net5.0\myExertnalClass.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_09\CH09C\CH09ClassLib\obj\Debug\net5.0\myExertnalClass.AssemblyInfo.cs
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_09\CH09C\CH09ClassLib\obj\Debug\net5.0\myExertnalClass.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_09\CH09C\CH09ClassLib\obj\Debug\net5.0\myExertnalClass.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_09\CH09C\CH09ClassLib\obj\Debug\net5.0\refint\myExertnalClass.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_09\CH09C\CH09ClassLib\obj\Debug\net5.0\myExertnalClass.pdb
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_09\CH09C\CH09ClassLib\obj\Debug\net5.0\ref\myExertnalClass.dll
