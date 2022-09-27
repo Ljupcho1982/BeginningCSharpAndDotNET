@@ -1,0 +1,16 @@
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\CH10EX01\bin\Debug\net5.0\CH10EX01.exe
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\CH10EX01\bin\Debug\net5.0\CH10EX01.deps.json
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\CH10EX01\bin\Debug\net5.0\CH10EX01.runtimeconfig.json
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\CH10EX01\bin\Debug\net5.0\CH10EX01.runtimeconfig.dev.json
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\CH10EX01\bin\Debug\net5.0\CH10EX01.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\CH10EX01\bin\Debug\net5.0\CH10EX01.pdb
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\CH10EX01\obj\Debug\net5.0\CH10EX01.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\CH10EX01\obj\Debug\net5.0\CH10EX01.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\CH10EX01\obj\Debug\net5.0\CH10EX01.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\CH10EX01\obj\Debug\net5.0\CH10EX01.AssemblyInfo.cs
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\CH10EX01\obj\Debug\net5.0\CH10EX01.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\CH10EX01\obj\Debug\net5.0\CH10EX01.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\CH10EX01\obj\Debug\net5.0\refint\CH10EX01.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\CH10EX01\obj\Debug\net5.0\CH10EX01.pdb
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\CH10EX01\obj\Debug\net5.0\CH10EX01.genruntimeconfig.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\CH10EX01\obj\Debug\net5.0\ref\CH10EX01.dll
