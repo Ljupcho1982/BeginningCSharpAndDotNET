@@ -1,0 +1,12 @@
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\CardLib\CardLib\bin\Debug\net6.0\CardLib.deps.json
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\CardLib\CardLib\bin\Debug\net6.0\CardLib.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\CardLib\CardLib\bin\Debug\net6.0\CardLib.pdb
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\CardLib\CardLib\obj\Debug\net6.0\CardLib.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\CardLib\CardLib\obj\Debug\net6.0\CardLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\CardLib\CardLib\obj\Debug\net6.0\CardLib.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\CardLib\CardLib\obj\Debug\net6.0\CardLib.AssemblyInfo.cs
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\CardLib\CardLib\obj\Debug\net6.0\CardLib.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\CardLib\CardLib\obj\Debug\net6.0\CardLib.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\CardLib\CardLib\obj\Debug\net6.0\refint\CardLib.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\CardLib\CardLib\obj\Debug\net6.0\CardLib.pdb
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\CardLib\CardLib\obj\Debug\net6.0\ref\CardLib.dll
