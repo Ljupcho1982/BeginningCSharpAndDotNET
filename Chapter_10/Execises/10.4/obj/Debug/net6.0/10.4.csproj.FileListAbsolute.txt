@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\Execises\10.4\bin\Debug\net6.0\10.4.exe
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\Execises\10.4\bin\Debug\net6.0\10.4.deps.json
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\Execises\10.4\bin\Debug\net6.0\10.4.runtimeconfig.json
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\Execises\10.4\bin\Debug\net6.0\10.4.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\Execises\10.4\bin\Debug\net6.0\10.4.pdb
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\Execises\10.4\obj\Debug\net6.0\10.4.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\Execises\10.4\obj\Debug\net6.0\10.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\Execises\10.4\obj\Debug\net6.0\10.4.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\Execises\10.4\obj\Debug\net6.0\10.4.AssemblyInfo.cs
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\Execises\10.4\obj\Debug\net6.0\10.4.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\Execises\10.4\obj\Debug\net6.0\10.4.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\Execises\10.4\obj\Debug\net6.0\refint\10.4.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\Execises\10.4\obj\Debug\net6.0\10.4.pdb
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\Execises\10.4\obj\Debug\net6.0\10.4.genruntimeconfig.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_10\Execises\10.4\obj\Debug\net6.0\ref\10.4.dll
