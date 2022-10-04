@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FluhExercise/1.0.0": {
+        "dependencies": {
+          "CH10CardLib": "1.0.0"
+        },
+        "runtime": {
+          "FluhExercise.dll": {}
+        }
+      },
+      "CH10CardLib/1.0.0": {
+        "runtime": {
+          "CH10CardLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FluhExercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CH10CardLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

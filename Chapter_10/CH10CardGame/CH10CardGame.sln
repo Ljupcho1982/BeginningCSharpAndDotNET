@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH10CardLib", "CH10CardLib\CH10CardLib.csproj", "{B6858FF3-9511-4332-B8A6-579467393D17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CH10CardLib", "CH10CardLib\CH10CardLib.csproj", "{B6858FF3-9511-4332-B8A6-579467393D17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH10CardClient", "CH10CardClient\CH10CardClient.csproj", "{AE668DB3-A0E6-46BC-BA9E-8D6B567390AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CH10CardClient", "CH10CardClient\CH10CardClient.csproj", "{AE668DB3-A0E6-46BC-BA9E-8D6B567390AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluhExercise", "FluhExercise\FluhExercise.csproj", "{EBF73D0F-8168-49A7-9F68-52E51FC4A2F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{AE668DB3-A0E6-46BC-BA9E-8D6B567390AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE668DB3-A0E6-46BC-BA9E-8D6B567390AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE668DB3-A0E6-46BC-BA9E-8D6B567390AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBF73D0F-8168-49A7-9F68-52E51FC4A2F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBF73D0F-8168-49A7-9F68-52E51FC4A2F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBF73D0F-8168-49A7-9F68-52E51FC4A2F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBF73D0F-8168-49A7-9F68-52E51FC4A2F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
