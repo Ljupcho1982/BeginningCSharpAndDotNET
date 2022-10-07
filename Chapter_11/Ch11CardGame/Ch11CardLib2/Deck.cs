@@ -1,6 +1,12 @@
 ﻿using Ch11CardLib2;
 
 namespace CardLib
+
+    public class Deck : ICloneable
+{
+
+
+
 {
     private CardCollection cards = new CardCollection();
     public Deck()
@@ -14,6 +20,17 @@ namespace CardLib
             }
         }
     }
+
+    public object Clone()
+    {
+        Deck newDeck = new Deck(cards.Clone() as CardCollection);
+
+    }
+
+    private Deck(CardCollection newCard) => cards = newCard;
+
+    private CardCollection cards = new CardCollection();
+
     public Card GetCard(int cardNum)
     {
         if (cardNum >= 0 && cardNum <= 51)
@@ -42,4 +59,5 @@ namespace CardLib
         }
         newDeck.CopyTo(cards);
     }
+}
 }

@@ -2,7 +2,7 @@
 
 namespace Ch11CardLib2
 {
-    public class CardCollection : CollectionBase
+    public class CardCollection : CollectionBase, ICloneable
 
     {
         public void Add(Card newCard) => List.Add(newCard);
@@ -32,7 +32,18 @@ namespace Ch11CardLib2
 
         public bool Contains(Card card) => InnerList.Contains(card);
 
+        public object Clone()
+        {
+            CardCollection newCardCollection = new CardCollection();
 
+            foreach (Card sourceCard in List)
+            {
 
+                newCardCollection.Add(sourceCard);
+            }
+
+            return newCardCollection;
+
+        }
     }
 }
