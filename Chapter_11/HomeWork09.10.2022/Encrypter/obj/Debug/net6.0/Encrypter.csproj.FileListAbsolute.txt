@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork09.10.2022\Encrypter\bin\Debug\net6.0\Encrypter.exe
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork09.10.2022\Encrypter\bin\Debug\net6.0\Encrypter.deps.json
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork09.10.2022\Encrypter\bin\Debug\net6.0\Encrypter.runtimeconfig.json
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork09.10.2022\Encrypter\bin\Debug\net6.0\Encrypter.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork09.10.2022\Encrypter\bin\Debug\net6.0\Encrypter.pdb
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork09.10.2022\Encrypter\obj\Debug\net6.0\Encrypter.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork09.10.2022\Encrypter\obj\Debug\net6.0\Encrypter.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork09.10.2022\Encrypter\obj\Debug\net6.0\Encrypter.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork09.10.2022\Encrypter\obj\Debug\net6.0\Encrypter.AssemblyInfo.cs
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork09.10.2022\Encrypter\obj\Debug\net6.0\Encrypter.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork09.10.2022\Encrypter\obj\Debug\net6.0\Encrypter.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork09.10.2022\Encrypter\obj\Debug\net6.0\refint\Encrypter.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork09.10.2022\Encrypter\obj\Debug\net6.0\Encrypter.pdb
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork09.10.2022\Encrypter\obj\Debug\net6.0\Encrypter.genruntimeconfig.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork09.10.2022\Encrypter\obj\Debug\net6.0\ref\Encrypter.dll

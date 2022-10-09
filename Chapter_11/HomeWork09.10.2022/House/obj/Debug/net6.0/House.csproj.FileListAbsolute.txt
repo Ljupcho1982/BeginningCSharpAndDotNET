@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork09.10.2022\House\bin\Debug\net6.0\House.exe
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork09.10.2022\House\bin\Debug\net6.0\House.deps.json
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork09.10.2022\House\bin\Debug\net6.0\House.runtimeconfig.json
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork09.10.2022\House\bin\Debug\net6.0\House.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork09.10.2022\House\bin\Debug\net6.0\House.pdb
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork09.10.2022\House\obj\Debug\net6.0\House.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork09.10.2022\House\obj\Debug\net6.0\House.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork09.10.2022\House\obj\Debug\net6.0\House.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork09.10.2022\House\obj\Debug\net6.0\House.AssemblyInfo.cs
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork09.10.2022\House\obj\Debug\net6.0\House.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork09.10.2022\House\obj\Debug\net6.0\House.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork09.10.2022\House\obj\Debug\net6.0\refint\House.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork09.10.2022\House\obj\Debug\net6.0\House.pdb
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork09.10.2022\House\obj\Debug\net6.0\House.genruntimeconfig.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork09.10.2022\House\obj\Debug\net6.0\ref\House.dll
