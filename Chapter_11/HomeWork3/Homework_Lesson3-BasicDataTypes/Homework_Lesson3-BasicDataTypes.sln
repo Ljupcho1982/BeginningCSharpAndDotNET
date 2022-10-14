@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_Lesson3-BasicDataTypes", "Homework_Lesson3-BasicDataTypes.csproj", "{B70762CF-E574-4984-99CD-0E353492F0BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.01 Char", "..\3.01 Char\3.01 Char.csproj", "{106A05BF-D02F-48C3-8E41-D4B6EF6B3806}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.02 Triangle", "..\3.02 Triangle\3.02 Triangle.csproj", "{E3531C15-D767-4798-9751-11C39D96B2F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.03 Password as string", "..\3.03 Password as string\3.03 Password as string.csproj", "{02495E7F-A458-4B4E-B500-B644F4F40702}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.07 Double", "..\3.07 Double\3.07 Double.csproj", "{A9AA6DDA-A22E-4E06-87FD-DA51CCA5CD47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.08 Calculate values of a function", "..\3.08 Calculate values of a function\3.08 Calculate values of a function.csproj", "{1703EF0F-9CE0-4212-89F1-89D907819E4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.09 Display a function", "..\3.09 Display a function\3.09 Display a function.csproj", "{5FDFE509-A87B-43C5-8323-123A25B83487}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B70762CF-E574-4984-99CD-0E353492F0BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B70762CF-E574-4984-99CD-0E353492F0BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B70762CF-E574-4984-99CD-0E353492F0BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B70762CF-E574-4984-99CD-0E353492F0BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{106A05BF-D02F-48C3-8E41-D4B6EF6B3806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{106A05BF-D02F-48C3-8E41-D4B6EF6B3806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{106A05BF-D02F-48C3-8E41-D4B6EF6B3806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{106A05BF-D02F-48C3-8E41-D4B6EF6B3806}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3531C15-D767-4798-9751-11C39D96B2F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3531C15-D767-4798-9751-11C39D96B2F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3531C15-D767-4798-9751-11C39D96B2F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3531C15-D767-4798-9751-11C39D96B2F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02495E7F-A458-4B4E-B500-B644F4F40702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02495E7F-A458-4B4E-B500-B644F4F40702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02495E7F-A458-4B4E-B500-B644F4F40702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02495E7F-A458-4B4E-B500-B644F4F40702}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9AA6DDA-A22E-4E06-87FD-DA51CCA5CD47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9AA6DDA-A22E-4E06-87FD-DA51CCA5CD47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9AA6DDA-A22E-4E06-87FD-DA51CCA5CD47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9AA6DDA-A22E-4E06-87FD-DA51CCA5CD47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1703EF0F-9CE0-4212-89F1-89D907819E4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1703EF0F-9CE0-4212-89F1-89D907819E4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1703EF0F-9CE0-4212-89F1-89D907819E4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1703EF0F-9CE0-4212-89F1-89D907819E4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FDFE509-A87B-43C5-8323-123A25B83487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FDFE509-A87B-43C5-8323-123A25B83487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FDFE509-A87B-43C5-8323-123A25B83487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FDFE509-A87B-43C5-8323-123A25B83487}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB0E57E6-790E-4FA4-8259-29AA9ADF735E}
+	EndGlobalSection
+EndGlobal

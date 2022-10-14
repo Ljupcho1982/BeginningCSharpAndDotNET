@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork3\3.09 Display a function\bin\Debug\net6.0\3.09 Display a function.exe
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork3\3.09 Display a function\bin\Debug\net6.0\3.09 Display a function.deps.json
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork3\3.09 Display a function\bin\Debug\net6.0\3.09 Display a function.runtimeconfig.json
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork3\3.09 Display a function\bin\Debug\net6.0\3.09 Display a function.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork3\3.09 Display a function\bin\Debug\net6.0\3.09 Display a function.pdb
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork3\3.09 Display a function\obj\Debug\net6.0\3.09 Display a function.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork3\3.09 Display a function\obj\Debug\net6.0\3.09 Display a function.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork3\3.09 Display a function\obj\Debug\net6.0\3.09 Display a function.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork3\3.09 Display a function\obj\Debug\net6.0\3.09 Display a function.AssemblyInfo.cs
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork3\3.09 Display a function\obj\Debug\net6.0\3.09 Display a function.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork3\3.09 Display a function\obj\Debug\net6.0\3.09 Display a function.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork3\3.09 Display a function\obj\Debug\net6.0\refint\3.09 Display a function.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork3\3.09 Display a function\obj\Debug\net6.0\3.09 Display a function.pdb
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork3\3.09 Display a function\obj\Debug\net6.0\3.09 Display a function.genruntimeconfig.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork3\3.09 Display a function\obj\Debug\net6.0\ref\3.09 Display a function.dll

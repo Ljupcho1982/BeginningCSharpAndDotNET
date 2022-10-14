@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "3.08 Calculate values of a function/1.0.0": {
+        "runtime": {
+          "3.08 Calculate values of a function.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3.08 Calculate values of a function/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

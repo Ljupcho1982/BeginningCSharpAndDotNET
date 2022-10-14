@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\StreamWrite\bin\Debug\net6.0\StreamWrite.exe
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\StreamWrite\bin\Debug\net6.0\StreamWrite.deps.json
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\StreamWrite\bin\Debug\net6.0\StreamWrite.runtimeconfig.json
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\StreamWrite\bin\Debug\net6.0\StreamWrite.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\StreamWrite\bin\Debug\net6.0\StreamWrite.pdb
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\StreamWrite\obj\Debug\net6.0\StreamWrite.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\StreamWrite\obj\Debug\net6.0\StreamWrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\StreamWrite\obj\Debug\net6.0\StreamWrite.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\StreamWrite\obj\Debug\net6.0\StreamWrite.AssemblyInfo.cs
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\StreamWrite\obj\Debug\net6.0\StreamWrite.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\StreamWrite\obj\Debug\net6.0\StreamWrite.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\StreamWrite\obj\Debug\net6.0\refint\StreamWrite.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\StreamWrite\obj\Debug\net6.0\StreamWrite.pdb
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\StreamWrite\obj\Debug\net6.0\StreamWrite.genruntimeconfig.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\StreamWrite\obj\Debug\net6.0\ref\StreamWrite.dll

@@ -2,7 +2,7 @@
 {
     public class Encrypter
     {
-
+        // vo klasta Encrypter
         public static string Encrypt(string text)
         {
             int letterInt = 0;

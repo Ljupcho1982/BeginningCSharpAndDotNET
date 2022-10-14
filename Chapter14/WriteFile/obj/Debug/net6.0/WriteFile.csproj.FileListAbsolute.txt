@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\WriteFile\bin\Debug\net6.0\WriteFile.exe
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\WriteFile\bin\Debug\net6.0\WriteFile.deps.json
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\WriteFile\bin\Debug\net6.0\WriteFile.runtimeconfig.json
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\WriteFile\bin\Debug\net6.0\WriteFile.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\WriteFile\bin\Debug\net6.0\WriteFile.pdb
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\WriteFile\obj\Debug\net6.0\WriteFile.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\WriteFile\obj\Debug\net6.0\WriteFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\WriteFile\obj\Debug\net6.0\WriteFile.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\WriteFile\obj\Debug\net6.0\WriteFile.AssemblyInfo.cs
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\WriteFile\obj\Debug\net6.0\WriteFile.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\WriteFile\obj\Debug\net6.0\WriteFile.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\WriteFile\obj\Debug\net6.0\refint\WriteFile.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\WriteFile\obj\Debug\net6.0\WriteFile.pdb
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\WriteFile\obj\Debug\net6.0\WriteFile.genruntimeconfig.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\WriteFile\obj\Debug\net6.0\ref\WriteFile.dll

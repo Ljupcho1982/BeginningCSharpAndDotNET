@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork3\3.02 Triangle\bin\Debug\net6.0\3.02 Triangle.exe
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork3\3.02 Triangle\bin\Debug\net6.0\3.02 Triangle.deps.json
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork3\3.02 Triangle\bin\Debug\net6.0\3.02 Triangle.runtimeconfig.json
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork3\3.02 Triangle\bin\Debug\net6.0\3.02 Triangle.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork3\3.02 Triangle\bin\Debug\net6.0\3.02 Triangle.pdb
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork3\3.02 Triangle\obj\Debug\net6.0\3.02 Triangle.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork3\3.02 Triangle\obj\Debug\net6.0\3.02 Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork3\3.02 Triangle\obj\Debug\net6.0\3.02 Triangle.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork3\3.02 Triangle\obj\Debug\net6.0\3.02 Triangle.AssemblyInfo.cs
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork3\3.02 Triangle\obj\Debug\net6.0\3.02 Triangle.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork3\3.02 Triangle\obj\Debug\net6.0\3.02 Triangle.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork3\3.02 Triangle\obj\Debug\net6.0\refint\3.02 Triangle.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork3\3.02 Triangle\obj\Debug\net6.0\3.02 Triangle.pdb
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork3\3.02 Triangle\obj\Debug\net6.0\3.02 Triangle.genruntimeconfig.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter_11\HomeWork3\3.02 Triangle\obj\Debug\net6.0\ref\3.02 Triangle.dll

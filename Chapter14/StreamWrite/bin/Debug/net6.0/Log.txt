@@ -1,0 +1,3 @@
+Hello to you.
+it is now Thursday, October 13, 2022
+and things are looking good.it`sTrue that C# is fun
