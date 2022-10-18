@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter15\SerializeJSON\Weather\bin\Debug\net6.0\Weather.exe
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter15\SerializeJSON\Weather\bin\Debug\net6.0\Weather.deps.json
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter15\SerializeJSON\Weather\bin\Debug\net6.0\Weather.runtimeconfig.json
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter15\SerializeJSON\Weather\bin\Debug\net6.0\Weather.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter15\SerializeJSON\Weather\bin\Debug\net6.0\Weather.pdb
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter15\SerializeJSON\Weather\obj\Debug\net6.0\Weather.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter15\SerializeJSON\Weather\obj\Debug\net6.0\Weather.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter15\SerializeJSON\Weather\obj\Debug\net6.0\Weather.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter15\SerializeJSON\Weather\obj\Debug\net6.0\Weather.AssemblyInfo.cs
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter15\SerializeJSON\Weather\obj\Debug\net6.0\Weather.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter15\SerializeJSON\Weather\obj\Debug\net6.0\Weather.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter15\SerializeJSON\Weather\obj\Debug\net6.0\refint\Weather.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter15\SerializeJSON\Weather\obj\Debug\net6.0\Weather.pdb
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter15\SerializeJSON\Weather\obj\Debug\net6.0\Weather.genruntimeconfig.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter15\SerializeJSON\Weather\obj\Debug\net6.0\ref\Weather.dll

@@ -101,39 +101,9 @@ namespace loopThroughXmlDocument
         }
 
 
-        private void buttonCreateNode1_Click(object sender, RoutedEventArgs e)
-        {
-            private const string booksFile =
-@"C:\BeginningCSharpAndDotNET\Chapter15\XML and Schema\Books.xml";
-
-        // Load the XML document.
-        XmlDocument document = new XmlDocument();
-        document.Load(booksFile);
-            // Get the root element.
-            XmlElement root = document.DocumentElement;
-        // Create the new nodes.
-        XmlElement newBook = document.CreateElement("book");
-        XmlElement newTitle = document.CreateElement("title");
-        XmlElement newAuthor = document.CreateElement("author");
-        XmlElement newCode = document.CreateElement("code");
-        XmlText title = document.CreateTextNode("Professional C# 7 and .NET Core");
-        XmlText author = document.CreateTextNode("Christian Nagel");
-        XmlText code = document.CreateTextNode("978-1119449270");
-        XmlComment comment = document.CreateComment("the Professional edition");
-        // Insert the elements.
-        newBook.AppendChild(comment);
-            newBook.AppendChild(newTitle);
-            newBook.AppendChild(newAuthor);
-            newBook.AppendChild(newCode);
-            newTitle.AppendChild(title);
-            newAuthor.AppendChild(author);
-
-            newCode.AppendChild(code);
-            root.InsertAfter(newBook, root.LastChild);
-            document.Save(booksFile);
-        }
+    }
 }
-}
+
 
 
 
