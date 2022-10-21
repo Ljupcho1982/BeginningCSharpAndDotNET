@@ -46,10 +46,10 @@ foreach (var item in methodQuery1)
     Console.WriteLine($"{item.Age}");
 }
 
-var age = from Person in people where Person.Age >= 21 select Person;
+var age = from Person in people where Person.Age >= 21 orderby Person.Age select Person;
 
 foreach (var item in age)
 {
 
-    Console.WriteLine(item);
+    Console.WriteLine(item.Age);
 }
