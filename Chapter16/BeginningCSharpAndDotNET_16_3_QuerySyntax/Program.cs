@@ -11,6 +11,9 @@ foreach (var item in querryResults)
 }
 
 
+var commaSeperatedString = querryResults.Aggregate((s1, s2) => s1 + ", " + s2);
+Console.WriteLine("Aggregate : " + commaSeperatedString);
+
 Console.WriteLine("-----------Orderby in descending order------------");
 foreach (var item in querryResults.Reverse())
 {

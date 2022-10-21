@@ -1,0 +1,15 @@
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\agregate\bin\Debug\net6.0\agregate.exe
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\agregate\bin\Debug\net6.0\agregate.deps.json
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\agregate\bin\Debug\net6.0\agregate.runtimeconfig.json
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\agregate\bin\Debug\net6.0\agregate.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\agregate\bin\Debug\net6.0\agregate.pdb
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\agregate\obj\Debug\net6.0\agregate.csproj.AssemblyReference.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\agregate\obj\Debug\net6.0\agregate.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\agregate\obj\Debug\net6.0\agregate.AssemblyInfoInputs.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\agregate\obj\Debug\net6.0\agregate.AssemblyInfo.cs
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\agregate\obj\Debug\net6.0\agregate.csproj.CoreCompileInputs.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\agregate\obj\Debug\net6.0\agregate.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\agregate\obj\Debug\net6.0\refint\agregate.dll
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\agregate\obj\Debug\net6.0\agregate.pdb
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\agregate\obj\Debug\net6.0\agregate.genruntimeconfig.cache
+C:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\agregate\obj\Debug\net6.0\ref\agregate.dll
