@@ -9,15 +9,19 @@ using (var db = new VendorContex())
     db.Vendors.Add(vendor1);
     db.Vendors.Add(vendor2);
     db.SaveChanges();
-
+    decimal revenue = 0;
     var querry = from b in db.Vendors orderby b.Name select b;
 
     Console.WriteLine("--------Report on Sale:-----");
     foreach (var b in querry)
     {
 
+        revenue += b.Price * b.Number_product;
         Console.WriteLine($"The Vendor {b.Name} made sale revenue of {b.Number_product * b.Price} of the {b.Product}");
-    }
 
-    Console.WriteLine("______________________");
+
+    }
+    Console.WriteLine($"_________Total revenue is: {revenue}_____________");
+
+    Console.WriteLine($"______________________END OF THE REPORT____________________________");
 }
