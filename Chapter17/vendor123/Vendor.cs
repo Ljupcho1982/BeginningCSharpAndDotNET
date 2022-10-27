@@ -13,9 +13,19 @@ namespace vendor123
 
         [Key] public int Code { get; set; }
 
+        public decimal Sum
+        {
+            get ; 
+
+
+            set { this.Sum = this.Number_product * this.Price; }
 
 
 
+
+
+        }
     }
-}
+};
+
 
